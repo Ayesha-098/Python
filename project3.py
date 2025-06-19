@@ -1,4 +1,4 @@
-num = input("Enter a number: ")
+num = input("Enter a number (any): ")
 digit = input("Enter a digit to find its place value: ")  
  
 places = ["Units", "Tens", "Hundreds", "Thousands", "Ten Thousands", "Hundred Thousands", "Millions"]
